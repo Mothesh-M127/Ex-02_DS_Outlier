@@ -1,4 +1,4 @@
-# # Ex-02_DS_Outlier
+# Ex-02_DS_Outlier
 ## AIM:
 To Detect and Remove Outliers from the given Dataset.
 
